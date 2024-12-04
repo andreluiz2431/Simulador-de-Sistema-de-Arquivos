@@ -1,0 +1,14 @@
+Arquivo 'file1.txt' criado com sucesso.
+Arquivo 'file2.txt' criado com sucesso.
+Arquivo 'file3.txt' criado com sucesso.
+'file2.txt' excluído com sucesso.
+Arquivo 'file4.txt' criado com sucesso.
+Tamanho do disco: 100, Espaço livre: 40, Caminho atual: /RAIZ.
+
+Estrutura final do sistema de arquivos:
+[FILE] file1.txt (10 blocos)
+[FILE] file3.txt (30 blocos)
+[FILE] file4.txt (20 blocos)
+
+Info do sistema de arquivos:
+Tamanho do disco: 100, Espaço livre: 40, Caminho atual: /RAIZ.

@@ -1,0 +1,71 @@
+Diretório 'docs' criado com sucesso.
+Diretório 'images' criado com sucesso.
+Diretório 'projects' criado com sucesso.
+Arquivo 'file1.txt' criado com sucesso.
+Arquivo 'file2.txt' criado com sucesso.
+Arquivo 'file3.txt' criado com sucesso.
+Navegou para /RAIZ/docs.
+Diretório 'reports' criado com sucesso.
+Diretório 'drafts' criado com sucesso.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Navegou para /RAIZ/docs/reports.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Navegou para /RAIZ/docs.
+Navegou para /RAIZ/docs/drafts.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Arquivo não encontrado.
+Erro: Arquivo não encontrado.
+Navegou para /RAIZ/docs.
+[DIR] reports
+[DIR] drafts
+Tamanho do disco: 50, Espaço livre: 0, Caminho atual: /RAIZ/docs.
+Navegou para /RAIZ.
+Navegou para /RAIZ/images.
+Diretório 'raw' criado com sucesso.
+Diretório 'processed' criado com sucesso.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Navegou para /RAIZ/images/raw.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Navegou para /RAIZ/images.
+Navegou para /RAIZ/images/processed.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Navegou para /RAIZ/images.
+Navegou para /RAIZ.
+Navegou para /RAIZ/projects.
+Diretório 'project1' criado com sucesso.
+Diretório 'project2' criado com sucesso.
+Navegou para /RAIZ/projects/project1.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Arquivo não encontrado.
+Navegou para /RAIZ/projects.
+Navegou para /RAIZ/projects/project2.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Arquivo não encontrado.
+
+Navegou para /RAIZ/projects.
+Navegou para /RAIZ.
+
+Estrutura final do sistema de arquivos:
+[DIR] docs
+    [DIR] reports
+    [DIR] drafts
+[DIR] images
+    [DIR] raw
+    [DIR] processed
+[DIR] projects
+    [DIR] project1
+    [DIR] project2
+[FILE] file1.txt (10 blocos)
+[FILE] file2.txt (15 blocos)
+[FILE] file3.txt (25 blocos)
+
+Info do sistema de arquivos:
+Tamanho do disco: 50, Espaço livre: 0, Caminho atual: /RAIZ.

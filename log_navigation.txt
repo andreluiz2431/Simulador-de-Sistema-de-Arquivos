@@ -1,0 +1,31 @@
+Diretório 'docs' criado com sucesso.
+Diretório 'images' criado com sucesso.
+Navegou para /RAIZ/docs.
+Diretório 'reports' criado com sucesso.
+Diretório 'drafts' criado com sucesso.
+Arquivo 'report1.txt' criado com sucesso.
+Navegou para /RAIZ/docs/reports.
+Arquivo 'annual_report.txt' criado com sucesso.
+Navegou para /RAIZ/docs.
+Navegou para /RAIZ/docs/drafts.
+Arquivo 'draft1.txt' criado com sucesso.
+Navegou para /RAIZ/docs.
+Navegou para /RAIZ.
+Navegou para /RAIZ/images.
+Diretório 'raw' criado com sucesso.
+Diretório 'processed' criado com sucesso.
+Tamanho do disco: 100, Espaço livre: 65, Caminho atual: /RAIZ/images.
+
+Estrutura final do sistema de arquivos:
+[DIR] docs
+    [DIR] reports
+        [FILE] annual_report.txt (20 blocos)
+    [DIR] drafts
+        [FILE] draft1.txt (5 blocos)
+    [FILE] report1.txt (10 blocos)
+[DIR] images
+    [DIR] raw
+    [DIR] processed
+
+Info do sistema de arquivos:
+Tamanho do disco: 100, Espaço livre: 65, Caminho atual: /RAIZ/images.

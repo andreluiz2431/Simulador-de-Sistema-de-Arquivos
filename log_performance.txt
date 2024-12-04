@@ -1,0 +1,83 @@
+Arquivo 'file1.txt' criado com sucesso.
+Arquivo 'file2.txt' criado com sucesso.
+Arquivo 'file3.txt' criado com sucesso.
+Arquivo 'file4.txt' criado com sucesso.
+Arquivo 'file5.txt' criado com sucesso.
+Arquivo 'file6.txt' criado com sucesso.
+Arquivo 'file7.txt' criado com sucesso.
+Arquivo 'file8.txt' criado com sucesso.
+Arquivo 'file9.txt' criado com sucesso.
+Arquivo 'file10.txt' criado com sucesso.
+Arquivo 'file11.txt' criado com sucesso.
+Arquivo 'file12.txt' criado com sucesso.
+Arquivo 'file13.txt' criado com sucesso.
+Arquivo 'file14.txt' criado com sucesso.
+Arquivo 'file15.txt' criado com sucesso.
+Arquivo 'file16.txt' criado com sucesso.
+Arquivo 'file17.txt' criado com sucesso.
+Arquivo 'file18.txt' criado com sucesso.
+Arquivo 'file19.txt' criado com sucesso.
+Arquivo 'file20.txt' criado com sucesso.
+Arquivo 'file21.txt' criado com sucesso.
+Arquivo 'file22.txt' criado com sucesso.
+Arquivo 'file23.txt' criado com sucesso.
+Arquivo 'file24.txt' criado com sucesso.
+Arquivo 'file25.txt' criado com sucesso.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Arquivo 'file29.txt' criado com sucesso.
+Erro: Espaço insuficiente.
+Arquivo 'file31.txt' criado com sucesso.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Arquivo 'file37.txt' criado com sucesso.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Erro: Espaço insuficiente.
+Tamanho do disco: 500, Espaço livre: 3, Caminho atual: /RAIZ.
+
+Estrutura final do sistema de arquivos:
+[FILE] file1.txt (8 blocos)
+[FILE] file2.txt (8 blocos)
+[FILE] file3.txt (42 blocos)
+[FILE] file4.txt (18 blocos)
+[FILE] file5.txt (23 blocos)
+[FILE] file6.txt (22 blocos)
+[FILE] file7.txt (8 blocos)
+[FILE] file8.txt (42 blocos)
+[FILE] file9.txt (14 blocos)
+[FILE] file10.txt (26 blocos)
+[FILE] file11.txt (21 blocos)
+[FILE] file12.txt (21 blocos)
+[FILE] file13.txt (10 blocos)
+[FILE] file14.txt (27 blocos)
+[FILE] file15.txt (3 blocos)
+[FILE] file16.txt (38 blocos)
+[FILE] file17.txt (14 blocos)
+[FILE] file18.txt (21 blocos)
+[FILE] file19.txt (25 blocos)
+[FILE] file20.txt (2 blocos)
+[FILE] file21.txt (33 blocos)
+[FILE] file22.txt (24 blocos)
+[FILE] file23.txt (2 blocos)
+[FILE] file24.txt (24 blocos)
+[FILE] file25.txt (12 blocos)
+[FILE] file29.txt (3 blocos)
+[FILE] file31.txt (3 blocos)
+[FILE] file37.txt (3 blocos)
+
+Info do sistema de arquivos:
+Tamanho do disco: 500, Espaço livre: 3, Caminho atual: /RAIZ.

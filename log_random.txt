@@ -1,0 +1,65 @@
+Tamanho do disco: 50, Espaço livre: 50, Caminho atual: /RAIZ.
+Tamanho do disco: 50, Espaço livre: 50, Caminho atual: /RAIZ.
+Tamanho do disco: 50, Espaço livre: 50, Caminho atual: /RAIZ.
+
+
+Tamanho do disco: 50, Espaço livre: 50, Caminho atual: /RAIZ.
+Tamanho do disco: 50, Espaço livre: 50, Caminho atual: /RAIZ.
+Arquivo 'file_19' criado com sucesso.
+Diretório 'dir_32' criado com sucesso.
+Diretório 'dir_83' criado com sucesso.
+Arquivo 'file_21' criado com sucesso.
+Diretório 'dir_30' criado com sucesso.
+Tamanho do disco: 50, Espaço livre: 46, Caminho atual: /RAIZ.
+'file_19' excluído com sucesso.
+Tamanho do disco: 50, Espaço livre: 47, Caminho atual: /RAIZ.
+Tamanho do disco: 50, Espaço livre: 47, Caminho atual: /RAIZ.
+'dir_83' excluído com sucesso.
+[DIR] dir_32
+[FILE] file_21
+[DIR] dir_30
+Conteúdo do arquivo 'file_21': 
+[DIR] dir_32
+[FILE] file_21
+[DIR] dir_30
+Dados escritos no arquivo 'file_21'.
+'file_21' excluído com sucesso.
+Diretório 'dir_96' criado com sucesso.
+Arquivo 'file_51' criado com sucesso.
+Dados escritos no arquivo 'file_51'.
+Conteúdo do arquivo 'file_51': 'Random data for file_51'
+Arquivo 'file_79' criado com sucesso.
+'file_51' excluído com sucesso.
+Arquivo 'file_16' criado com sucesso.
+[DIR] dir_32
+[DIR] dir_30
+[DIR] dir_96
+[FILE] file_79
+[FILE] file_16
+[DIR] dir_32
+[DIR] dir_30
+[DIR] dir_96
+[FILE] file_79
+[FILE] file_16
+Conteúdo do arquivo 'file_79': 
+Conteúdo do arquivo 'file_16': 
+Tamanho do disco: 50, Espaço livre: 42, Caminho atual: /RAIZ.
+'file_16' excluído com sucesso.
+[DIR] dir_32
+[DIR] dir_30
+[DIR] dir_96
+[FILE] file_79
+Navegou para /RAIZ/dir_30.
+Conteúdo do arquivo 'file_79': 
+Dados escritos no arquivo 'file_79'.
+Erro: Diretório não encontrado.
+Tamanho do disco: 50, Espaço livre: 44, Caminho atual: /RAIZ/dir_30.
+
+Estrutura final do sistema de arquivos:
+[DIR] dir_32
+[DIR] dir_30
+[DIR] dir_96
+[FILE] file_79 (6 blocos)
+
+Info do sistema de arquivos:
+Tamanho do disco: 50, Espaço livre: 44, Caminho atual: /RAIZ/dir_30.

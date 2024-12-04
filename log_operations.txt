@@ -1,0 +1,11 @@
+Arquivo 'file1.txt' criado com sucesso.
+Dados escritos no arquivo 'file1.txt'.
+Conteúdo do arquivo 'file1.txt': 'This is a test file.'
+'file1.txt' excluído com sucesso.
+Erro: Arquivo não encontrado.
+Tamanho do disco: 100, Espaço livre: 100, Caminho atual: /RAIZ.
+
+Estrutura final do sistema de arquivos:
+
+Info do sistema de arquivos:
+Tamanho do disco: 100, Espaço livre: 100, Caminho atual: /RAIZ.
